@@ -1,5 +1,8 @@
 Welcome to Kitchen
 
 Chicken
+Banana
+Pizza
+
 
 thanks
