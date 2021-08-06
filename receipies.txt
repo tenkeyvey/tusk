@@ -3,8 +3,8 @@ Welcome to Kitchen
 Chicken
 Banana
 Pizza
-cheese
-bell pepper
+oregano
+
 thanks
 
 done my changes
